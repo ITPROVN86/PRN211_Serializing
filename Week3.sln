@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactListApp", "ContactLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoXmlSerializer", "DemoXmlSerializer\DemoXmlSerializer.csproj", "{883E9EDC-C879-46D9-9757-DF501BF3BA6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoXmlSerializer02", "DemoXmlSerializer02\DemoXmlSerializer02.csproj", "{643180C2-5CCE-404F-965C-2549ADB1DA64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{883E9EDC-C879-46D9-9757-DF501BF3BA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{883E9EDC-C879-46D9-9757-DF501BF3BA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{883E9EDC-C879-46D9-9757-DF501BF3BA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643180C2-5CCE-404F-965C-2549ADB1DA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643180C2-5CCE-404F-965C-2549ADB1DA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643180C2-5CCE-404F-965C-2549ADB1DA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643180C2-5CCE-404F-965C-2549ADB1DA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
